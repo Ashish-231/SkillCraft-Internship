@@ -17,13 +17,12 @@ Build an interactive *line chart* to visualize *population trends (1990–2024)*
 - Formatting: Ascending year order, clean axis labels
 
 ## 📊 Dashboard Preview
-![Screenshot 2025-08-27 015041.png]
+[![Dashboard](Screenshot 2025-08-27 015041.png)](./screenshots/dashboard.png)
 
 ## 📁 Files
-- population_dashboard.pbix – main report
-- data/world_population.csv – dataset
-- screenshots/dashboard.png – preview
-
+- [population_dashboard.pbix](Population_dashboard.pbix) – main report  
+- [Dataset (world_population.csv)](Population_data.csv) – raw dataset  
+- [Dashboard Screenshot](Screenshot 2025-08-27 015041.png) – chart preview
 ---
 
 ⭐ Feedback and suggestions are welcome!
